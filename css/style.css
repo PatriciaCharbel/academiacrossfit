@@ -307,7 +307,7 @@ img{
 }
     .menu{
         /*display: none;*/
-        animation: mudarCor 10s infinite;
+        /*animation: mudarCor 10s infinite;*/
         background-color: var(--brand);
         width: 100%;
         position: absolute;
